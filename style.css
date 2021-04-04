@@ -35,4 +35,6 @@ padding-left: 5px; margin: 5px;}
 	text-align: center; float: bottom; overflow: hidden;
 	}
 
-.bott input[type=submit] {border: none ;border-bottom: 1px; color: solid rgb(184, 184, 184); width: 250px; font-family: 'Handlee', cursive;}
+.bott input[type=submit] {border: none ;border-bottom: 1px; color: solid black; width: 200px; font-family: 'Handlee', cursive; background-color: rgb(171, 171, 171);}
+
+.bott input[hover] {;}
